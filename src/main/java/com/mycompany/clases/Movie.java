@@ -1,10 +1,7 @@
 
 package com.mycompany.clases;
 
-/**
- *
- * @author chappyd_0
- */
+
 public class Movie {
     private String title;
     private String director;

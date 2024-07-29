@@ -2,10 +2,7 @@ package com.mycompany.clases;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author chappyd_0
- */
+
 public class ListMovies {
     
     private ArrayList<Movie> listMovies;
